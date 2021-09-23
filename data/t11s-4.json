@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "t11s",
+  "address": "t11s.eth",
+  "risk": "0",
+  "title": "Prefer abi.encode over abi.encodePacked",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/4"
+}
