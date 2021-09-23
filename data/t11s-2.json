@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "t11s",
+  "address": "t11s.eth",
+  "risk": "G",
+  "title": "Abandon clone-pattern for pairs in favor of full deploys",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/2"
+}
