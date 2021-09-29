@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": " Input validation on positionID not being 0 will save gas",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/81"
+}
