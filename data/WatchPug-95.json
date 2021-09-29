@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "IndexPool.INIT_POOL_SUPPLY is too large, which may cause a significant amount of fund loos to the first liquidity provider",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/95"
+}
