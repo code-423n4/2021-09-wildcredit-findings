@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Clone-and-own approach used for OZ libraries is susceptible to errors and missing upstream bug fixes",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/77"
+}
