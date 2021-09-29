@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Reduce risk of rounding error in _timeRateToBlockRate",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/36"
+}
