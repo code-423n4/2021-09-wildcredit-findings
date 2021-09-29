@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Liquidation can be escaped by depositing a Uni v3 position with 0 liquidity",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/30"
+}
