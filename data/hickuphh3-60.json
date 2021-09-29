@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "3",
+  "title": "UniswapV3Helper: getSqrtPriceX96() doesn't work for tokens with non-18 decimals",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/60"
+}
