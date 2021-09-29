@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Missing event for this critical onlyOperator function where the operator can arbitrarily change name+symbol",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/74"
+}
