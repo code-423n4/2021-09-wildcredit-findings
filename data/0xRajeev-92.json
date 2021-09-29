@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Converting state variables to immutable will save storage slots and gas",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/92"
+}
