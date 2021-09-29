@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "1",
+  "title": "LPTokenMaster.initialize is not checking for addresses not being 0",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/110"
+}
