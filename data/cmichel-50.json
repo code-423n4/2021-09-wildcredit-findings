@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Supply part of the accrued debt can be stolen",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/50"
+}
