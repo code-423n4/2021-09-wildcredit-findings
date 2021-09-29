@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`IndexPool.mint()` Unchecked arithmetic can overflow that allows stealing of almost all the funds in the pool",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/96"
+}
