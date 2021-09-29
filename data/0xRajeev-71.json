@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Renouncing ownership is not allowed",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/71"
+}
