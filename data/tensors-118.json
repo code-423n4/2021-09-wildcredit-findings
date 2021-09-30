@@ -1,0 +1,9 @@
+{
+  "contest": "Wild Credit contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "1",
+  "title": "Add nonReentrant modifiers to uniswap position methods + Check effects pattern",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2021-09-wildcredit-findings/issues/118"
+}
