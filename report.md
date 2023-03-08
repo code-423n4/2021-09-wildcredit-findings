@@ -1,3 +1,11 @@
+---
+sponsor: "Wild Credit" 
+slug: "2021-09-wildcredit" 
+date: "2021-11-16" 
+title: "Wild Credit contest" 
+findings: "https://github.com/code-423n4/2021-09-wildcredit-findings" 
+contest: 32 
+---
 
 # Overview
 
